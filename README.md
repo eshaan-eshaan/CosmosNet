@@ -25,7 +25,7 @@ CosmosNet automates this process using deep learning, comparing a **ResNet-18 ba
 | Property | Value |
 |---|---|
 | Dataset | Galaxy Zoo Hubble (GZH) |
-| Total Images | ~120,000 galaxies |
+| Total Images | ~68,000+ galaxies |
 | Image Size | 64×64 to 128×128 pixels |
 | Telescope | Hubble ACS (F814W, F606W filters) |
 | Label Type | Soft vote fractions (0.0 – 1.0) |
